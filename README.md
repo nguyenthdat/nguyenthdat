@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64a02cf5d99c9d6731a59ac1?variant=dark)](https://roadmap.sh)
 <!--
 **nguyenthdat/nguyenthdat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
