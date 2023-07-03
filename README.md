@@ -1,6 +1,5 @@
 ### Hi there 👋
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64a02cf5d99c9d6731a59ac1?variant=dark)](https://roadmap.sh)  
-<a href="https://app.daily.dev/nguyenthdat"><img src="https://api.daily.dev/devcards/28696ed2226a4b5ab11c7868a5651397.png?r=cgw" width="400" alt="Nguyen Thanh Dat's Dev Card"/></a>
 <!--
 **nguyenthdat/nguyenthdat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
