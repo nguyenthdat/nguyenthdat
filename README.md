@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64a02cf5d99c9d6731a59ac1?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64a02cf5d99c9d6731a59ac1?variant=dark&roadmaps=backend%2Cdevops%2Ccyber-security%2Csoftware-architect)](https://roadmap.sh)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
