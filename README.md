@@ -23,7 +23,7 @@
 <img src="https://images.ctfassets.net/paqvtpyf8rwu/GeLUVavqqxhFZolzU9jM3/3b8dddc74a632e63f17e0a5e40b971bb/super-panda-update.svg" alt="redpanda-data" width="40" height="40"/>
 <img src="https://surrealdb.com/static/img/assets/icon/icon-3fccfc517c1fa85d61441f736f7bb6ac.svg" alt="surrealdb" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Cloudflare_Logo.png/480px-Cloudflare_Logo.png" alt="cloudflare" width="40" height="40"/>
-<img src="https://static.macupdate.com/products/38118/l/burp-suite-logo.png" alt="burp" width="40" height="40"/>
+<img src="./images/burp-suite-logo.png" alt="burp" width="40" height="40"/>
 <img src="https://avatars.githubusercontent.com/u/6716868?s=280&v=4" alt="zap" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/meilisearch/integration-guides/main/assets/logos/logo.svg" alt="meilisearch" width="40" height="40"/>
 <img src="https://cncf-branding.netlify.app/img/projects/envoy/stacked/color/envoy-stacked-color.png" alt="envoy" width="40" height="40"/>
