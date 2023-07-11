@@ -1,4 +1,4 @@
-[![MasterHead](./images/wolf.gif)]()
+[![MasterHead](https://furrycdn.org/img/view/2020/9/23/33269.gif)]()
 
 <h1 align="center"> Hi 👋, I'm Jason Nguyen (aka Nguyen Thanh Dat) </h1>
 <h3 align="center">A Security Engineer, try hard on DevOps and Data Science </h3>
