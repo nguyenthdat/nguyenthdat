@@ -30,4 +30,4 @@
 </p>
 
 <p><img align="left" src="https://api.roadmap.sh/v1-badge/tall/64a02cf5d99c9d6731a59ac1?variant=dark" alt="roadmap.sh"/></p>
-<p>&nbsp;<img align="center" src="https://api.daily.dev/devcards/28696ed2226a4b5ab11c7868a5651397.png?r=dk5" width="290" alt="Nguyen Thanh Dat's Dev Card"/></a></p>
+<p>&nbsp;<img align="center" src="https://github.com/nguyenthdat/nguyenthdat/blob/main/devcard.svg" width="290" alt="Nguyen Thanh Dat's Dev Card"/></a></p>
