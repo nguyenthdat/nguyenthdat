@@ -26,7 +26,7 @@
 <img src="./images/burp-suite-logo.png" alt="burp" width="40" height="40"/>
 <img src="https://avatars.githubusercontent.com/u/6716868?s=280&v=4" alt="zap" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/meilisearch/integration-guides/main/assets/logos/logo.svg" alt="meilisearch" width="40" height="40"/>
-<img src="https://cncf-branding.netlify.app/img/projects/envoy/stacked/color/envoy-stacked-color.png" alt="envoy" width="40" height="40"/>
+<img src="https://seeklogo.com/images/E/envoy-proxy-logo-AA21B06AE5-seeklogo.com.png" alt="envoy" width="40" height="40"/>
 </p>
 
 <p><img align="left" src="https://api.roadmap.sh/v1-badge/tall/64a02cf5d99c9d6731a59ac1?variant=dark" alt="roadmap.sh"/></p>
