@@ -3,8 +3,10 @@
 <h1 align="center"> Hi 👋, I'm Jason Nguyen (aka Nguyen Thanh Dat) </h1>
 <h3 align="center">A Security Engineer, try hard on SWE, DevOps and Data Science </h3>
 
-- 🔭 I’m currently freelancing at Bugcrowd, Hackerone, Synack, Intigriti, YesWeHack, ...
-- 🌱 I’m currently learning Data Science, Software Architect, Quantitative Finance and Rust in advance
+![](https://komarev.com/ghpvc/?username=nguyenthdat)
+
+- 🔭 I’m freelancing at Bugcrowd, Hackerone, Synack, Intigriti, YesWeHack, ...
+- 🌱 I’m currently learning Data Science, Software Architect, Quantitative Finance, and Rust in advance
 - 👯 I’m looking to collaborate on Algorithmic Trading App
 - 📫 How to reach me: dat.nguyen@bitbytelab.io
 
