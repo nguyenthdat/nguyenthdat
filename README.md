@@ -4,6 +4,7 @@
 <h3 align="center">A Security Engineer, try hard on SWE, DevOps and Data Science </h3>
 
 ![](https://komarev.com/ghpvc/?username=nguyenthdat)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenthdat&show_icons=true&theme=transparent)
 
 - 🔭 I’m freelancing at Bugcrowd, Hackerone, Synack, Intigriti, YesWeHack, ...
 - 🌱 I’m currently learning Data Science, Software Architect, Quantitative Finance, and Rust in advance
