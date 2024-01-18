@@ -4,7 +4,6 @@
 <h3 align="center">A Security Engineer, try hard on SWE, DevOps and Data Science </h3>
 
 ![](https://komarev.com/ghpvc/?username=nguyenthdat)
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenthdat&show_icons=true&theme=transparent)
 
 - 🔭 I’m freelancing at Bugcrowd, Hackerone, Synack, Intigriti, YesWeHack, ...
 - 🌱 I’m currently learning Data Science, Software Architect, Quantitative Finance, and Rust in advance
@@ -34,3 +33,4 @@
 
 <p><img align="left" src="https://api.roadmap.sh/v1-badge/tall/64a02cf5d99c9d6731a59ac1?variant=dark" alt="roadmap.sh"/></p>
 <p>&nbsp;<img align="center" src="https://github.com/nguyenthdat/nguyenthdat/blob/main/devcard.svg" width="290" alt="Nguyen Thanh Dat's Dev Card"/></a></p>
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenthdat&show_icons=true&theme=transparent)
