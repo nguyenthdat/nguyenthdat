@@ -10,6 +10,8 @@
 - 👯 I’m looking to collaborate on Algorithmic Trading App
 - 📫 How to reach me: dat.nguyen@bitbytelab.io
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenthdat&show_icons=true&theme=transparent)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <img src="https://www.nicepng.com/png/full/308-3084680_rust-programming-language-rust-programming-language-logo.png" alt="rust" width="40" height="40"/> 
@@ -33,4 +35,3 @@
 
 <p><img align="left" src="https://api.roadmap.sh/v1-badge/tall/64a02cf5d99c9d6731a59ac1?variant=dark" alt="roadmap.sh"/></p>
 <p>&nbsp;<img align="center" src="https://github.com/nguyenthdat/nguyenthdat/blob/main/devcard.svg" width="290" alt="Nguyen Thanh Dat's Dev Card"/></a></p>
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenthdat&show_icons=true&theme=transparent)
