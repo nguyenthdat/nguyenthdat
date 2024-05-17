@@ -34,4 +34,4 @@
 </p>
 
 <p><img align="left" src="https://api.roadmap.sh/v1-badge/tall/64a02cf5d99c9d6731a59ac1?variant=dark" alt="roadmap.sh"/></p>
-<p>&nbsp;<img align="center" src="https://github.com/nguyenthdat/nguyenthdat/blob/main/devcard.svg" width="290" alt="Nguyen Thanh Dat's Dev Card"/></a></p>
+<p>&nbsp;<a href="https://app.daily.dev/nguyenthdat"><img src="https://api.daily.dev/devcards/v2/eVpK7jLzspcLQRyZHDJae.png?r=1fa&type=default" width="356" alt="Nguyen Thanh Dat's Dev Card"/></a></p>
