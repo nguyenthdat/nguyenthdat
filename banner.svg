@@ -51,7 +51,7 @@
     <text x="37" y="172" font-size="64" font-weight="700" class="ink" letter-spacing="-1">Dat Nguyen</text>
   </g>
   <g class="line l3">
-    <text x="40" y="208" font-size="19" class="muted">security researcher · offsec · quant trading</text>
+    <text x="40" y="208" font-size="19" class="muted">security researcher · offsec · reverse engineering</text>
   </g>
   <g class="line l4">
     <text x="40" y="266" font-size="19"><tspan class="accent">~ $</tspan><tspan class="ink"> echo $MOTTO</tspan></text>
