@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="344" viewBox="0 0 720 344" role="img" aria-labelledby="t">
+  <title id="t">Dat Nguyen, security researcher at Bit Byte Lab. Hack everything. Own the game.</title>
+  <defs>
+    <pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#e8eaed"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0.4" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="1"/>
+    </linearGradient>
+    <mask id="fade-mask">
+      <rect width="720" height="344" fill="url(#fade)"/>
+    </mask>
+    <clipPath id="card">
+      <rect width="720" height="344" rx="14"/>
+    </clipPath>
+  </defs>
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .muted { fill: #7d8590; }
+    .ink { fill: #e8eaed; }
+    .accent { fill: #ff5a36; }
+    .line { animation: in .45s cubic-bezier(.2,.7,.2,1) backwards; }
+    .l1 { animation-delay: .15s; }
+    .l2 { animation-delay: .55s; }
+    .l3 { animation-delay: .75s; }
+    .l4 { animation-delay: 1.25s; }
+    .l5 { animation-delay: 1.65s; }
+    .cursor { animation: in .45s 1.65s backwards, blink 1s 2.1s steps(1) 8; }
+    @keyframes in { from { opacity: 0; transform: translateY(6px); } }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) {
+      .line, .cursor { animation: none; }
+    }
+  </style>
+
+  <g clip-path="url(#card)">
+    <rect width="720" height="344" fill="#0b0e13"/>
+    <rect width="720" height="344" fill="url(#dots)" opacity="0.12" mask="url(#fade-mask)"/>
+    <rect width="720" height="2" fill="#ff5a36"/>
+  </g>
+  <rect x="0.5" y="0.5" width="719" height="343" rx="13.5" fill="none" stroke="#262c36"/>
+
+  <text x="40" y="46" font-size="14" class="muted">nguyenthdat@bitbytelab</text>
+  <text x="680" y="46" font-size="14" class="muted" text-anchor="end">ho chi minh city</text>
+
+  <g class="line l1">
+    <text x="40" y="106" font-size="19"><tspan class="accent">~ $</tspan><tspan class="ink"> whoami</tspan></text>
+  </g>
+  <g class="line l2">
+    <text x="37" y="172" font-size="64" font-weight="700" class="ink" letter-spacing="-1">Dat Nguyen</text>
+  </g>
+  <g class="line l3">
+    <text x="40" y="208" font-size="19" class="muted">security researcher · offsec · quant trading</text>
+  </g>
+  <g class="line l4">
+    <text x="40" y="266" font-size="19"><tspan class="accent">~ $</tspan><tspan class="ink"> echo $MOTTO</tspan></text>
+  </g>
+  <g class="line l5">
+    <!-- textLength pins the 30 monospace cells (0.6em each) so the cursor lands one cell after the text in any font -->
+    <text x="40" y="304" font-size="24" class="ink" textLength="432">hack everything. own the game.</text>
+  </g>
+  <rect class="cursor" x="486" y="285" width="13" height="24" fill="#ff5a36"/>
+</svg>
